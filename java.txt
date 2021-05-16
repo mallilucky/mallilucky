@@ -1,3 +1,5 @@
 java code
 .class
 .objects
+aws
+azure
