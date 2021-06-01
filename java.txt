@@ -3,8 +3,4 @@ java code
 .objects
 aws
 azure
-malli
-prasad
-reddy
-raja
-ram 
+ 
